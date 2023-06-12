@@ -1,3 +1,5 @@
+## Ekran Görüntüleri
+
 ![Anasayfa](https://cdn.discordapp.com/attachments/1117807502063587388/1117808384889061466/image.png)
 
 ![loged-in](https://cdn.discordapp.com/attachments/1117807502063587388/1117808421710868541/image.png)
